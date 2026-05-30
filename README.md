@@ -12,3 +12,8 @@ A fun and interactive number guessing game built with HTML, CSS, and JavaScript.
 - 📱 **Responsive design** : Works seamlessly on mobile, tablet and desktop.  
 - ⚡ **Lightweight and fast** : Simple, minimal and smooth gameplay.  
 - 🎮 **Engaging gameplay** : Great for quick fun, practicing logic or casual entertainment.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="938" alt="Screenshot 2026-05-30 101409" src="https://github.com/user-attachments/assets/2c180529-1004-44d0-9c52-75218ebe5dc3" />
